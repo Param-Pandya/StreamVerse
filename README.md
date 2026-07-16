@@ -47,49 +47,61 @@ watching, and modular application architecture.
 | ⚡ Smooth User Experience | Skeleton loaders, responsive layouts, smooth scrolling, and subtle animations. |
 | 🏗 Modular Architecture | Well-structured component-based architecture designed for scalability and maintainability. |
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Home
+<table align="center">
+<tr>
+<td align="center">
+<img src="screenshots/HomeScreen.jpeg" width="250"/><br>
+<b>Home Screen</b>
+</td>
 
-```{=html}
-<p align="center">
-```
-`<img src="screenshots/HomeScreen.jpeg" width="31%">`{=html}
-`<img src="screenshots/MoodMovie.jpeg" width="31%">`{=html}
-`<img src="screenshots/SearchPage.jpeg" width="31%">`{=html}
-```{=html}
-</p>
-```
-### Movie
+<td align="center">
+<img src="screenshots/MoodMovie.jpeg" width="250"/><br>
+<b>Mood Discovery</b>
+</td>
 
-```{=html}
-<p align="center">
-```
-`<img src="screenshots/Movies.jpeg" width="45%">`{=html}
-`<img src="screenshots/WishList.jpeg" width="45%">`{=html}
-```{=html}
-</p>
-```
-### User
+<td align="center">
+<img src="screenshots/SearchPage.jpeg" width="250"/><br>
+<b>Search</b>
+</td>
+</tr>
 
-```{=html}
-<p align="center">
-```
-`<img src="screenshots/Profile.jpeg" width="30%">`{=html}
-`<img src="screenshots/Search.jpeg" width="30%">`{=html}
-`<img src="screenshots/Downloads.jpeg" width="30%">`{=html}
-```{=html}
-</p>
-```
-### Splash
+<tr>
+<td align="center">
+<img src="screenshots/Movies.jpeg" width="250"/><br>
+<b>Movie Details</b>
+</td>
 
-```{=html}
-<p align="center">
-```
-`<img src="screenshots/Splash.jpeg" width="25%">`{=html}
-```{=html}
-</p>
-```
+<td align="center">
+<img src="screenshots/WishList.jpeg" width="250"/><br>
+<b>Watchlist</b>
+</td>
+
+<td align="center">
+<img src="screenshots/Profile.jpeg" width="250"/><br>
+<b>Profile</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="screenshots/Search.jpeg" width="250"/><br>
+<b>Search Categories</b>
+</td>
+
+<td align="center">
+<img src="screenshots/Downloads.jpeg" width="250"/><br>
+<b>Downloads</b>
+</td>
+
+<td align="center">
+<img src="screenshots/Splash.jpeg" width="250"/><br>
+<b>Splash Screen</b>
+</td>
+</tr>
+</table>
+
 ## 🛠 Tech Stack
 
   Category    Technology
