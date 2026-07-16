@@ -1,27 +1,15 @@
 # StreamVerse
 
-```{=html}
-<h1 align="center">
-```
-🎬 StreamVerse
-```{=html}
-</h1>
-```
-```{=html}
+<h1 align="center">🎬 StreamVerse</h1>
+
 <p align="center">
-```
-`<b>`{=html}A Modern Streaming Platform built with React Native & Expo
-SDK 54`</b>`{=html}
-```{=html}
+  <b>A Modern Streaming Platform built with React Native & Expo SDK 54</b>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="screenshots/HomeScreen.jpeg" width="85%">`{=html}
-```{=html}
+  <img src="screenshots/HomeScreen.jpeg" width="85%">
 </p>
-```
+
 ## ✨ Overview
 
 StreamVerse is a modern OTT streaming platform built with React Native
@@ -48,6 +36,13 @@ watching, and modular application architecture.
 | 🏗 Modular Architecture | Well-structured component-based architecture designed for scalability and maintainability. |
 
 # 📸 Screenshots
+
+<td align="center">
+<img src="screenshots/Splash.jpeg" width="250"/><br>
+<b>Splash Screen</b>
+</td>
+</tr>
+</table>
 
 <table align="center">
 <tr>
@@ -91,16 +86,10 @@ watching, and modular application architecture.
 </td>
 
 <td align="center">
-<img src="screenshots/Downloads.jpeg" width="250"/><br>
+<img src="screenshots/Downlaods.jpeg" width="250"/><br>
 <b>Downloads</b>
 </td>
 
-<td align="center">
-<img src="screenshots/Splash.jpeg" width="250"/><br>
-<b>Splash Screen</b>
-</td>
-</tr>
-</table>
 
 ## 🛠 Tech Stack
 
