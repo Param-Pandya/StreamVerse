@@ -11,6 +11,7 @@
       "web"
     ],
     "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
     "primaryColor": "#0b090f",
     "icon": "src/assets/icon.png",
     "splash": {
@@ -26,7 +27,8 @@
       "adaptiveIcon": {
         "foregroundImage": "src/assets/adaptive-icon.png",
         "backgroundColor": "#0b090f"
-      }
+      },
+      "package": "com.parampandya.streamverse"
     },
     "ios": {
       "buildNumber": "0.0.1",
@@ -35,6 +37,11 @@
     "plugins": [
       "expo-asset",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f40c3354-3b8e-46f3-95d4-55372ccdcf45"
+      }
+    }
   }
 }
