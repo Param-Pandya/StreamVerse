@@ -101,7 +101,7 @@ watching, and modular application architecture.
   ----------- --------------
   Framework   React Native
   Runtime     Expo SDK 54
-  Language    JavaScript
+  Language    Typescript
   State       Context API
   Storage     AsyncStorage
 
