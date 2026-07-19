@@ -140,9 +140,12 @@ npm install
 npx expo start
 ```
 
-
 ## 📜 Disclaimer
 
 This project is intended for educational and portfolio purposes. Movie
 titles, posters, logos, and related artwork belong to their respective
 owners and are used only as demonstration content.
+
+## Downloads
+
+You can download it from expo.dev: https://expo.dev/accounts/parampandya/projects/streamverse/builds/6a5481ce-a2f9-4931-ae94-862aa90dba61
