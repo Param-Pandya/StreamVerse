@@ -37,12 +37,18 @@ watching, and modular application architecture.
 
 # 📸 Screenshots
 
+## 📸 Screenshots
+
+<table align="center">
+<tr>
 <td align="center">
 <img src="screenshots/Splash.jpeg" width="250"/><br>
 <b>Splash Screen</b>
 </td>
-<!-- </tr>
-</table> -->
+</tr>
+</table>
+
+<br>
 
 <table align="center">
 <tr>
@@ -90,6 +96,9 @@ watching, and modular application architecture.
 <b>Downloads</b>
 </td>
 
+<td></td>
+</tr>
+</table>
 
 ## 🛠 Tech Stack
 
