@@ -41,8 +41,8 @@ watching, and modular application architecture.
 <img src="screenshots/Splash.jpeg" width="250"/><br>
 <b>Splash Screen</b>
 </td>
-</tr>
-</table>
+<!-- </tr>
+</table> -->
 
 <table align="center">
 <tr>
@@ -135,6 +135,7 @@ cd StreamVerse
 npm install
 npx expo start
 ```
+
 
 ## 📜 Disclaimer
 
