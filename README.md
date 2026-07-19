@@ -40,18 +40,13 @@ watching, and modular application architecture.
 ## 📸 Screenshots
 
 <table align="center">
+
 <tr>
 <td align="center">
 <img src="screenshots/Splash.jpeg" width="250"/><br>
 <b>Splash Screen</b>
 </td>
-</tr>
-</table>
 
-<br>
-
-<table align="center">
-<tr>
 <td align="center">
 <img src="screenshots/HomeScreen.jpeg" width="250"/><br>
 <b>Home Screen</b>
@@ -61,14 +56,14 @@ watching, and modular application architecture.
 <img src="screenshots/MoodMovie.jpeg" width="250"/><br>
 <b>Mood Discovery</b>
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <img src="screenshots/SearchPage.jpeg" width="250"/><br>
 <b>Search</b>
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <img src="screenshots/Movies.jpeg" width="250"/><br>
 <b>Movie Details</b>
@@ -78,14 +73,14 @@ watching, and modular application architecture.
 <img src="screenshots/WishList.jpeg" width="250"/><br>
 <b>Watchlist</b>
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <img src="screenshots/Profile.jpeg" width="250"/><br>
 <b>Profile</b>
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <img src="screenshots/Search.jpeg" width="250"/><br>
 <b>Search Categories</b>
@@ -95,10 +90,10 @@ watching, and modular application architecture.
 <img src="screenshots/Downlaods.jpeg" width="250"/><br>
 <b>Downloads</b>
 </td>
-
-<td></td>
 </tr>
+
 </table>
+
 
 ## 🛠 Tech Stack
 
