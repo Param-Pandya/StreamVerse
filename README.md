@@ -106,7 +106,7 @@ watching, and modular application architecture.
   Storage     AsyncStorage
 
 ## 📂 Project Structure
-
+ 
 ```text
 StreamVerse
 ├── screenshots
