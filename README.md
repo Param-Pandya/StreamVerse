@@ -1,5 +1,4 @@
 # StreamVerse
- 
 <h1 align="center">🎬 StreamVerse</h1>
  
 <p align="center">
