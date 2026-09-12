@@ -8,7 +8,7 @@
 <p align="center">
   <img src="screenshots/HomeScreen.jpeg" width="85%">
 </p>
-
+ 
 ## ✨ Overview
 
 StreamVerse is a modern OTT streaming platform built with React Native
