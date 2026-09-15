@@ -1,6 +1,6 @@
 # StreamVerse
 <h1 align="center">🎬 StreamVerse</h1>
- 
+
 <p align="center">
   <b>A Modern Streaming Platform built with React Native & Expo SDK 54</b>
 </p>
