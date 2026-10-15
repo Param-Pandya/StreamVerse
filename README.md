@@ -4,7 +4,7 @@
 <p align="center">
   <b>A Modern Streaming Platform built with React Native & Expo SDK 54</b>
 </p>
-
+ 
 <p align="center">
   <img src="screenshots/HomeScreen.jpeg" width="85%">
 </p>
